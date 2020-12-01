@@ -1,12 +1,12 @@
 # Projet_MPG
 The goal of this project is to create a shiny app that can advice the user in his mercato process in the french video game called MPG. 
 
-####### Objectif du projet : #####
+### Objectif du projet : #####
 
 Créer une application shiny qui conseillera les joueurs du jeu de football virtuel MPG.
 
 
-####### Principe du jeu : ######
+### Principe du jeu : ######
 
 Ce jeu oppose differents utilisateurs en ligne qui s'affronte lors de matchs virtuels.
 Les performances des joueurs de chaque équipes sont directement liées au performances réelles de ces joueurs chaque weekend. 
